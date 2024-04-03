@@ -1,0 +1,25 @@
+(
+  resources: {},
+  entities: {
+    4294967297: (
+      components: {
+        "confront::dev_camera::DevCameraTransform": (
+          pos: (
+            x: -0.15432116,
+            y: 0.0,
+            z: 2.2870445,
+          ),
+          rot: (
+            x: 0.0,
+            y: -0.9238804,
+            z: 0.0,
+            w: -0.3826814,
+          ),
+          target_rot: 69,
+          current_rot: 69,
+          time_changed: 105.0328,
+        ),
+      },
+    ),
+  },
+)
